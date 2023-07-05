@@ -1,8 +1,8 @@
 # Langchain-Personal-Assistant
 
-This repo is used for my personal project of understanding LangChain Memory.
+This repo is used for my personal project for understanding LangChain Memory.
 
-I want to build a Personal Performance Assistant, who helps me be more productive by being my Project Manager.
+I want to build a Personal Efficiency Assistant who helps me be more productive by being my Project Manager.
 
 ## LangChain_Agent_Memory_Exploration Notebook
 This notebook contains my first test with the different memory types. 
